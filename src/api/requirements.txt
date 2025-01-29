@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+werkzeug
+pandas
+numpy
+diffprivlib
+scikit-learn
